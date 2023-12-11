@@ -1,4 +1,4 @@
-**Automated Loan Approval System**
+# **Automated Loan Approval System**
 
 - **Objective**: Develop an automated loan approval system using machine learning to streamline the lending process.
 
