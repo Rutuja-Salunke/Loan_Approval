@@ -1,3 +1,7 @@
+# Box Plot :
+A boxplot, also known as a box-and-whisker plot, is a graphical representation of the distribution of a dataset. It displays the median, quartiles, and potential outliers in a clear and concise manner. The "box" represents the interquartile range (IQR), while the "whiskers" extend to show the data's spread, making it easy to identify data skewness and central tendency.
+
+#
 ![Loan_outlier](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/8e951c86-1f33-4a8c-b5cb-473a3c476199)
 ![loan_heatmap](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/0e973a9f-ce71-498a-b7f3-fa392de950ac)
 ![Loan_pair1](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/86e9bd72-e421-46e5-8140-958be677999d)
