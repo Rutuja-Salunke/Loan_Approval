@@ -1,0 +1,6 @@
+![Loan_outlier](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/8e951c86-1f33-4a8c-b5cb-473a3c476199)
+![loan_heatmap](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/0e973a9f-ce71-498a-b7f3-fa392de950ac)
+![Loan_pair1](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/86e9bd72-e421-46e5-8140-958be677999d)
+![Loan_pair2](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/f6d4e3c7-56f7-4066-b44e-76a50e57412c)
+![Loan_count](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/b25841c1-74e0-4d23-b63b-1ed3b3c6770c)
+![Loan_tree](https://github.com/Rutuja-Salunke/Loan_Approval/assets/102023809/b4f2dfc2-ad9c-42c5-b9c0-10efb173143e)
